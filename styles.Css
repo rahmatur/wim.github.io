@@ -1,0 +1,53 @@
+	.mango{background-color:red
+        ;
+        width:700px;
+        height:500px;
+        transition:background-color 5s, width 3s;
+        transition:all 4s;
+        animation-name:apple;
+        animation-duration:1s;
+        animation-iteration-count:infinite;
+
+        
+        position:relative;
+        animation-direction:alternate;
+        
+        
+        
+    }
+    
+    @keyframes komola{
+        
+        from{background:red}
+        to{background:green;border-radius:50%}
+    }
+    
+
+
+
+    }
+    #menu{
+	
+    }
+    
+    #menu li{
+        display:inline;
+        
+    }
+    
+    #menu li a {
+        color:white;
+        text-decoration:none;
+        background:black;
+        padding: 20px;
+            
+    }
+    
+    #menu li a:hover{
+        
+        Background:red;
+    }
+    
+    
+
+        
